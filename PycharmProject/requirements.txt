@@ -1,0 +1,16 @@
+# 爬虫相关
+requests
+beautifulsoup4
+lxml
+
+# 数据处理
+pandas
+numpy
+openpyxl
+
+# 可视化
+matplotlib
+wordcloud
+
+# GUI
+tkinter ; python_version >= "3.0"
